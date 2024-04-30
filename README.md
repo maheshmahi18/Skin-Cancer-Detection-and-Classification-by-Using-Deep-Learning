@@ -33,7 +33,7 @@ Ensure you have the following installed before running the code:
 ## Installation and Setup
 1. Clone the repository:
 
-   git clone https://github.com/your-username/skin-cancer-detection.git
+   git clone https://github.com/maheshmahi18/Skin-Cancer-Detection-and-Classification-by-Using-Deep-Learning.git
    cd skin-cancer-detection
    
 2. Install the dependencies:
